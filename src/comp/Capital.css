@@ -66,7 +66,7 @@ display: flex
     text-align: center;
     border-color:  #cbd2d9;
 }
-.body{
+body{
     margin: 0px;
     display: flex
 ;
