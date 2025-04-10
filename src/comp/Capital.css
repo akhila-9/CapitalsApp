@@ -1,0 +1,77 @@
+.entireContainer{
+    background-color:  #93c5fd;
+    height:400px;
+    width:600px;
+    display: flex
+    ;
+        align-items: center;
+        justify-content: center;
+}
+.ddd{
+   color:#323f4b
+   ;
+   font-family: roboto;
+ 
+}
+.body{
+    display: flex
+    ;
+        height: 100vh;
+        align-items: center;
+        justify-content: center;
+}
+.Capitalcard{
+    background-color: #f8fafc;
+    width: 325px;
+    padding-left: 29px;
+    height: 220px;
+border-radius: 8px;
+display: flex
+;
+    flex-direction: column;
+   
+    justify-content: center;
+    gap: 15px;
+
+}
+.ggg{
+    display: flex
+    ;    gap: 5px;
+        flex-direction: row;
+        align-items: center;
+}
+.sss{
+    display: flex
+    ;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+}
+.jjj{
+   color: #1e293b ;
+   font-family: 'Roboto';
+   font-weight: 500;
+}
+.header{
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 20px;
+    color:#1e293b;
+}
+.dropdown{
+    border-width: thin;
+    height: 26px;
+    width: 100px;
+    color:#000000;
+    text-align: center;
+    border-color:  #cbd2d9;
+}
+.body{
+    margin: 0px;
+    display: flex
+;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
